@@ -1,6 +1,6 @@
 {  
-"name": "皮皮影视",	
-"url": "https://www.pipiys1.com/",	
+"name": "皮皮蛋影视",	
+"url": "https://ppdys.vip/",	
 "tihuan": "cnzz.com",
 "User": "User-Agent:Dart/2.14 (dart:io)",
 "shouye": "1",	
@@ -43,7 +43,7 @@
 "bfshifouercijiequ": "0",	
 "bfjiequqian": "空",
 "bfjiequhou": "空",
-"bfjiequshuzuqian": "id=\"pane",		
+"bfjiequshuzuqian": "class=\"module-play-list-content",		
 "bfjiequshuzuhou": "</div>",									
 
 "zhuangtaiqian": "更新：",	
