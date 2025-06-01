@@ -2,7 +2,7 @@
 	"主页url": "https://www.ffys.fun/",
 	"简介": "class=\"module-info-introduction-content\">&&</div>",
 	"搜索url": "https://www.ffys.fun/vodsearch.html?wd={wd}",
-	"嗅探词": ".mp4#.m3u8#.flv",
+	"嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
 	"数组": "<div class=\"module-item-pic\">&&</div>",
 	"副标题": "class=\"module-poster-item-title\">&&</div>",
 	"图片": "data-original=\"&&\"",
