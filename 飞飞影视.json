@@ -1,0 +1,15 @@
+{
+	"主页url": "https://www.ffys.fun/",
+    "简介": "class=\"module-info-introduction-content\">&&</div>",
+	"搜索url": "https://www.ffys.fun/vodsearch.html?wd={wd}",
+  "嗅探词": ".mp4#.m3u8#.flv",
+  "数组": "<div class=\"module-item-pic\">&&</div>",
+  "副标题": "class=\"module-poster-item-title\">&&</div>",
+  "图片": "data-original=\"&&\"",
+	"导演": "导演：&&</div>",
+	"主演": "主演：&&</div>",
+  "线路数组": "data-dropdown-value&&</small>",
+  "线路标题": "<span>&&[替换:</span><small>>>共]+集",
+  "分类url": "https://www.ffys.fun//vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+ "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+}
