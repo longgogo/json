@@ -1,7 +1,7 @@
 {
 	"主页url": "https://xiuer.pro/",
 	"简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
-	"搜索url": "https://xiuer.pro/vod/search/?wd={wd}",
+	"搜索url": "/vod/search/?wd={wd}",
 	"嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
 	"数组": "<div class=\"module-item-pic\">&&</div>",
 	"副标题": "title=\">&&</div>",
