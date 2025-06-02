@@ -1,15 +1,15 @@
 {
-    "作者":"年看",
-    "站名":"秀儿影视",
-    "主页url":"https://xiuer.pro/",
-    "简介":"class=\"video-info-item video-info-content vod_content\">&&</span>",
-    "影片状态":"集数：&&</div>",
-    "影片类型":"video-tag-icon\">&&立即播放",
-    "数组":"module-item-pic\">&&module-item\">",
-    "副标题":"module-item-text\">&&</div>",
-    "搜索url":"https://xiuer.pro/vod/search/?wd={wd}",
-    "线路数组":"data-dropdown-value=&&</small>",
-    "线路标题":"<span>&&</small></span><small>>>共]+集",
-    "分类url":"https://xiuer.pro/show/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/",
-    "分类":"短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"
- }  
+	"主页url": "https://xiuer.pro/",
+	"简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
+	"搜索url": "https://xiuer.pro/vod/search/?wd={wd}",
+	"嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+	"数组": "<div class=\"module-item-pic\">&&</div>",
+	"副标题": "title=\">&&</div>",
+	"图片": "data-src=\"&&\"",
+	"导演": "导演：&&</div>",
+	"主演": "主演：&&</div>",
+	"线路数组": "data-dropdown-value&&</small>",
+	"线路标题": "<span>&&[替换:</span><small>>>共]+集",
+	"分类url": "https://xiuer.pro/show/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/",
+	"分类": "短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"
+}
