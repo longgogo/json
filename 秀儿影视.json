@@ -1,5 +1,5 @@
 {
-	"主页url": "https://xiuer.pro/",
+	"主页url": "https://www.xiuer.pro/",
 	"简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
 	"搜索url": "/vod/search/?wd={wd}",
 	"嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
@@ -10,6 +10,6 @@
 	"主演": "主演：&&</div>",
 	"线路数组": "data-dropdown-value&&</small>",
 	"线路标题": "<span>&&[替换:</span><small>>>共]+集",
-	"分类url": "https://xiuer.pro/show/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/",
+	"分类url": "https://www.xiuer.pro/show/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/",
 	"分类": "短剧$duanju#电视剧$dianshiju#电影$dianying#动漫$dongman#综艺$zongyi"
 }
