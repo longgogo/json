@@ -8,8 +8,8 @@
 	"图片": "data-src=\"&&\"",
 	"导演": "导演：&&</div>",
 	"主演": "演员：&&</div>",
-	"线路数组": "aria-label&&</span>",
-	"线路标题": ">&&[替换:</a><span class=\"badge\">>>共]+集",
+	"线路数组": "data-from=&&</a>[不含:超清资源#MY][排序:独享2K][排序:蓝光-5][排序:蓝光-7][排序:APP独享(下载APP观影)]",
+	"线路标题": "+>&&</em>[替换:<em>>>共]+集",
 	"分类url": "https://www.netflixgc.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
 	"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 }
