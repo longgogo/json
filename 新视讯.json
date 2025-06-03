@@ -1,0 +1,7 @@
+{
+    "请求头":"User-Agent$MOBILE_UA",
+    "编码":"UTF-8",
+    "分类url":"https://www.sunnafh.com/vod/show/id/{cateId}/type/{type}/area/{area}/year/{year}/lang/{lang}/",
+    "分类":"电影$1#电视剧$2#动漫$4#综艺$3",
+    "简介":"简介:&&"
+}
