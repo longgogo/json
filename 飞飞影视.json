@@ -10,6 +10,6 @@
 	"主演": "主演：&&</div>",
 	"线路数组": "data-dropdown-value&&</small>",
 	"线路标题": "<span>&&[替换:</span><small>>>共]+集",
-	"分类url": "https://www.ffys.fun/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+	"分类url": "https://www.ffys.fun/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
 	"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 }
