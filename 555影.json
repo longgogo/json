@@ -1,0 +1,16 @@
+{
+	"主页url": "https://www.55yy7.com/",
+	"简介": "<div class=\"module-info-introduction-content&&</div>",
+	"搜索url": "https://www.55yy7.com/vodsearch/-------------.html?wd={wd}",
+	"嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+	"数组": "myui-vodlist__thumb>&&</a>",
+	"副标题": "<div class=\"module-poster-item-title\">&&</div>",
+	"图片": "data-original=\"&&\"",
+	"导演": "导演：&&</div>",
+	"主演": "主演：&&</div>",
+	"线路数组": "data-dropdown-value&&</small>",
+	"线路标题": "<span>&&[替换:</span><small>>>共]+集",
+	"分类url": "https://www.55yy7.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+	"分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+}
+
