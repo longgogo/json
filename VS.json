@@ -1,0 +1,28 @@
+{
+	"主页url": "https://m.ytshengde.com/",
+	"搜索url": "sanyisc/-------------.html?wd={wd}&submit=",
+	"头部集合": "手机",
+
+	"数组": "col-lg-* col-md-* col-sm-* col-xs-*&&</li",
+	"图片": "data-original=\"&&\"",
+	"标题": "title=\"&&\"",
+	"副标题": "class=\"pic-text text-right\">&&</span>",
+	"链接": "href=\"&&\"",
+
+	"搜索数组": "col-lg-* col-md-* col-sm-* col-xs-*&&</li",
+	"搜索图片": "data-original=\"&&\"",
+	"搜索标题": "class=\"title\"&&</a",
+	"搜索副标题": "class=\"pic-text text-right\">&&</span>",
+	"搜索链接": "href=\"&&\"",
+
+	"线路数组": "class=\"nav nav-tabs active&&</ul",
+	"线路标题": "+data-toggle=\"tab\">"&&</a>",
+	"播放数组": "class=\"myui-content__list sort-list clearfix&&</ul>",
+	"播放列表": "<li&&</li",
+	"播放标题": ">&&</a",
+	"播放链接": "href=\"&&\"",
+	"分类url": "https://www.xiongyunming.com/sanyisw/{cateId}-{area}--{by}-----{catePg}---{year}.html",
+	"分类": "电影$sanyitp/1#电视剧$sanyitp/2#综艺$sanyitp/3#动漫$sanyitp/4#短剧$sanyitp/6",
+	"嗅探词": ".m3u8#.m3u8?#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4",
+	"过滤词": "/hls/#php"
+}
