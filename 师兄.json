@@ -1,0 +1,28 @@
+{
+	"主页url": "https://www.mengdm.vip/",
+	"搜索url": "/so/-------------.html?wd={wd}",
+	"头部集合": "手机",
+
+	"数组": "class=\"module-item-pic\">&&</div>",
+	"图片": "data-original=\"&&\"",
+	"标题": "title=\"&&\"",
+	"副标题": "class=\"module-poster-item-title\">&&</div>",
+	"链接": "href=\"&&\"",
+
+	"搜索数组": "class=\"module-item-pic\">&&</div>",
+	"搜索图片": "data-original=\"&&\"",
+	"搜索标题": "title=\"&&\"",
+	"搜索副标题": "class=\"module-poster-item-title\">&&</div>",
+	"搜索链接": "href=\"&&\"",
+
+	"线路数组": "class=\"module-tab-item tab-item active&&</div>",
+	"线路标题": "+data-dropdown-value=\"&&\"",
+	"播放数组": "class=\"module-play-list\">&&</div>",
+	"播放列表": "<a&&</a",
+	"播放标题": "<span>&&</span>",
+	"播放链接": "href=\"&&\"",
+	"分类url": "https://mengdm.vip/show/cateId-area--by----catePg---year.html",
+	"分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman",
+	"嗅探词": ".m3u8#.m3u8?#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4",
+	"过滤词": "/hls/#php"
+}
