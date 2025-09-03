@@ -1,6 +1,6 @@
 {
 	"主页url": "https://www.bbibi.cc/",
-	"搜索url": "https://www.bbibi.cc/search.php?searchword={wd}&submit=",
+	"搜索url": "/search.php?searchword={wd}&submit=",
 	"头部集合": "手机",
 
 	"数组": "class=\"col-md-6 col-sm-4 col-xs-3\">&&</li>",
