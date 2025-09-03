@@ -1,0 +1,28 @@
+{
+	"主页url": "https://www.bbibi.cc/",
+	"搜索url": "https://www.bbibi.cc/search.php?searchword={wd}&submit=",
+	"头部集合": "手机",
+
+	"数组": "class=\"col-md-6 col-sm-4 col-xs-3\">&&</li>",
+	"图片": "data-original=\"&&\"",
+	"标题": "title=\"&&\"",
+	"副标题": "class=\"text text-overflow text-muted hidden-xs\">&&</p>",
+	"链接": "href=\"&&\"",
+
+	"搜索数组": "class=\"col-md-6 col-sm-4 col-xs-3\">&&</li>",
+	"搜索图片": "data-original=\"&&\"",
+	"搜索标题": "class=\"title\"&&</a",
+	"搜索副标题": "class=\"text text-overflow text-muted hidden-xs\">&&</span>",
+	"搜索链接": "href=\"&&\"",
+
+	"线路数组": "class=\"nav nav-tabs active\">&&</ul>",//"线路数组": "data-dropdown-value&&</small>",
+	"线路标题": "<span>&&[替换:</span><small>>>共]+集",
+	"播放数组": "class=\"myui-content__list&&</ul>",
+	"播放列表": "<li&&</li",
+	"播放标题": ">&&</a>",
+	"播放链接": "href=\"&&\"",
+	"分类url": "/s/{cateId}-{area}-{by}------{catePg}---{year}.html",
+	"分类": "电影$movie#连续剧$series#动漫$anime#综艺$variety#动画片$animation#纪录片$documentary#电影解说$jieshuo#网络短剧$skit#体育$sports",
+	"嗅探词": ".m3u8#.m3u8?#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4",
+	"过滤词": "/hls/#php"
+}
