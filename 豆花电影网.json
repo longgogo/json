@@ -1,0 +1,23 @@
+{
+	"主页url": "https://dhvideo.cc/",
+	"简介": "reset-style\">&&</div>",
+	"搜索url": "https://dhvideo.cc/s?name={wd}",
+	"嗅探词": "m3u8#.m3u8#.mp4",
+	"数组": "<div class=\"flex flex-col gap-2 group cursor-pointer h-full\">&&<div class=\"px-1 py-1 w-full flex-1 flex flex-col\">",
+	"标题": "alt=\"&&\"",
+	"副标题": "text-white line-clamp-2\">&&</span>",
+	"图片": "data-src=\"&&\"",
+	"链接": "href=\"&&\"",
+	"导演": ">导演</span><span class=\"text-[#666]\">*\">&&</a>",
+	"主演": ">主演</span><span class=\"text-[#666] filter-scroll overflow-x-auto\">*\">&&</a>",
+	"线路数组": "id=\"list-&&</div>[不包含:data-title]",
+	"线路标题": "data-origin=\"&&\"",
+	"播放数组": "id=\"list-&&</div>[不包含:data-title]",
+	"播放列表": "<a &&</a>",
+	"播放标题": "break-word;\">&&</button>",
+	"播放链接": "href=\"&&\"[替换:amp;>>空]",
+	"播放链接前缀": "https://dhvideo.cc",
+	"起始页": "0",
+	"分类url": "https://dhvideo.cc/{cateId}.html?page={catePg}",
+	"分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#短剧$duanju"
+}
