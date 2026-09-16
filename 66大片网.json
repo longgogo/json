@@ -1,12 +1,4 @@
 {
-  "key": "66dpw",
-  "name": "66大片网",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0,
-  "ext": {
     "主页url": "https://www.77dpw.vip",
     "编码": "utf-8",
     "首页": "电影$20#动漫$20#剧集$20#短剧$20#综艺$20",
@@ -40,4 +32,3 @@
     "直接播放": "0",
     "倒序播放": "0"
   }
-}
