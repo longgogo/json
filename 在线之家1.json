@@ -1,0 +1,21 @@
+{
+	"主页url": "https://www.zxzj.run/",
+	"简介": "detail-content\" style=\"display: none;\">&&</span>",
+	"搜索url": "https://www.zxzj.run/vodsearch/-------------.html?wd={wd}",
+	"嗅探词": "m3u8#.m3u8#.mp4",
+	"数组": "<div class=\"stui-vodlist__box\">&&</li>[包含:/voddetail/]",
+	"标题": "title=\"&&\"",
+	"副标题": "class=\"pic-text text-right\">&&</span>",
+	"图片": "data-original=\"&&\"",
+	"链接": "href=\"&&\"",
+	"导演": "导演：&&</p>",
+	"主演": "主演：&&</p>",
+	"线路数组": "<div class=\"stui-vodlist__head\">&&<ul class=\"stui-content__playlist",
+	"线路标题": "<h3>&&</h3>",
+	"播放数组": "class=\"stui-content__playlist*&&</ul>",
+	"播放列表": "<a &&</a>",
+	"播放标题": ">&&</a>",
+	"播放链接": "href=\"&&\"",
+	"分类url": "https://www.zxzj.run/vodshow/{cateId}--------{catePg}---.html",
+	"分类": "电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6"
+}
