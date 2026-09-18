@@ -1,0 +1,22 @@
+{
+	"主页url": "https://www.libvio.to/",
+	"简介": "detail-sketch\">&&</span>",
+	"搜索url": "https://www.libvio.to/search/-------------.html?wd={wd}",
+	"嗅探词": ".mp4#m3u8#.m3u8",
+	"数组": "<div class=\"stui-vodlist__box\">&&</div>",
+	"标题": "title=\"&&\"",
+	"副标题": "pic-text text-right\">&&</span>",
+	"图片": "data-original=\"&&\"",
+	"链接": "href=\"&&\"",
+	"导演": "导演：&&</span>",
+	"主演": "主演：&&</span>",
+	"线路数组": "<div class=\"playlist-panel\">&&<ul class=\"stui-content__playlist",
+	"线路标题": "<h3>&&</h3>",
+	"播放数组": "<ul class=\"stui-content__playlist clearfix\">&&</ul>",
+	"播放列表": "<li >&&</li>[包含:/w/]",
+	"播放标题": ">&&</a>",
+	"播放链接": "href=\"&&\"",
+	"分类url": "https://www.libvio.to/type/{cateId}-{catePg}.html",
+	"分类": "电影$1#剧集$2#番剧$4#日韩$15#欧美$16",
+	"请求头": "Cookie$__cdn_verified=1789710397_57561_93c46dde5ccb01eb05fc72fbfa8b7c195175c7d4dc81cb82dc06cda535f1ee69#User-Agent$Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36"
+}
