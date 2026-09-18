@@ -1,0 +1,21 @@
+{
+	"主页url": "https://vidhub1.cc/",
+	"简介": "video-info-content vod_content\"><span>&&</span>",
+	"搜索url": "https://vidhub1.cc/vodsearch/{wd}-------------/",
+	"嗅探词": "m3u8#.m3u8#.mp4",
+	"数组": "<div class=\"module-item-cover\">&&</div><div class=\"module-item\">[包含:/voddetail/]",
+	"标题": "title=\"&&\"",
+	"副标题": "module-item-text\">&&</div>",
+	"图片": "data-src=\"&&\"",
+	"链接": "href=\"&&\"",
+	"导演": "导演：</span>&&</div>",
+	"主演": "主演：</span>&&</div>",
+	"线路数组": "class=\"module-tab-item tab-item\"&&</div>",
+	"线路标题": "data-dropdown-value=\"&&\"",
+	"播放数组": "class=\"module-list module-player-list&&<div class=\"shortcuts-mobile-overlay\">",
+	"播放列表": "<a &&</a>[包含:/vodplay/]",
+	"播放标题": "<span>&&</span>",
+	"播放链接": "href=\"&&\"",
+	"分类url": "https://vidhub1.cc/vodshow/{cateId}--------{catePg}---/",
+	"分类": "电影$1#连续剧$2#综艺$3#动漫$4"
+}
