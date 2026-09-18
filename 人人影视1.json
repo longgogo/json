@@ -1,0 +1,19 @@
+{
+	"主页url": "https://www.renren.pro/",
+	"搜索url": "https://www.renren.pro/search?wd={wd}",
+	"嗅探词": "m3u8#.m3u8#.mp4",
+	"数组": "module-item-pic&&</div>[包含:/play/]",
+	"标题": "alt=\"&&\"",
+	"图片": "data-src=\"&&\"",
+	"链接": "href=\"&&\"",
+	"链接前缀": "https://www.renren.pro",
+	"线路数组": "module-blocklist\">&&</main>",
+	"线路标题": "title=\"&&\"[替换:第1集>>云播#第01集>>云播#第001集>>云播#正片>>云播#HD中字>>云播#HD国语>>云播]",
+	"播放数组": "module-blocklist\">&&</main>",
+	"播放列表": "<a&&</a>[包含:/play/]",
+	"播放标题": "title=\"&&\"",
+	"播放链接": "href=\"&&\"",
+	"播放链接前缀": "https://www.renren.pro",
+	"分类url": "https://www.renren.pro/list/all?page={catePg}",
+	"分类": "影视库$all"
+}
