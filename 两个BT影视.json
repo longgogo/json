@@ -12,7 +12,7 @@
 	"导演": "导演</div>*<div class=\"col-span-2 text-gray-300\">&&</div>",
 	"主演": "主演</div>*<div class=\"col-span-2 text-gray-300\">&&</div>",
 	"线路数组": "episodeManager(&&]",
-	"线路标题": "lineName: '&&'[替换:alists>>云播]",
+	"线路标题": "lineName: '&&'[替换:alists>>云播#hitv>>云播]",
 	"播放数组": "grid-area: episodes&&相关推荐",
 	"播放列表": "<a &&</a>[包含:episode-link]",
 	"播放标题": "isEpisodeActive(1, *\">*&&</span>",
