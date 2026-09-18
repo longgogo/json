@@ -1,0 +1,21 @@
+{
+	"主页url": "https://www.netflixgc.com/",
+	"简介": "class=\"text cor3\">&&</div>",
+	"搜索url": "https://www.netflixgc.com/vodsearch/-------------.html?wd={wd}",
+	"嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+	"数组": "<div class=\"public-list-box &&</a></div><div class=\"public-list-button\">",
+	"标题": "title=\"&&\"",
+	"副标题": "public-prt hide\"*>&&</span>",
+	"图片": "data-src=\"&&\"",
+	"链接": "href=\"&&\"",
+	"导演": "导演 :</strong>&&</div>",
+	"主演": "演员 :</strong>&&</div>",
+	"线路数组": "<i class=\"fa ds-dianying\"></i>&&</a>",
+	"线路标题": "&nbsp;&&<span",
+	"播放数组": "<ul class=\"anthology-list-play size\">&&</ul>",
+	"播放列表": "<li class=\"bj3 border\"><a &&</a></li>",
+	"播放标题": ">&&</a>",
+	"播放链接": "href=\"&&\"",
+	"分类url": "https://www.netflixgc.com/vodtype/{cateId}.html",
+	"分类": "电影$1#连续剧$2#综艺$23#漫剧$3#纪录片$24"
+}
